@@ -3,7 +3,7 @@ package com.namita.ServiceModule.Service;
 public class Test2 {
 
 	public static void main(String[] args) {
-		System.out.println("in Class Test2");
+		System.out.println("in Class Test2 - Test2 Branch Commit");
 	}
 
 }
